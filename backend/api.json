@@ -7,3 +7,10 @@ app = {
 			},
 
 }
+
+env =  {
+	webframework: django4,
+	proglanguage: python11,
+	database: relational-sql,
+
+}

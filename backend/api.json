@@ -1,0 +1,9 @@
+app = {
+	name:realestate.lu,	
+ 	id:202406,
+	owners:{
+		person1: SimonMafany,
+		person2: SoniaMafany
+			},
+
+}

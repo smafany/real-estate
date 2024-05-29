@@ -1,0 +1,16 @@
+app = {
+	name:realestate.lu,	
+ 	id:202406,
+	owners:{
+		person1: SimonMafany,
+		person2: SoniaMafany
+			},
+
+}
+
+env =  {
+	webframework: django4,
+	proglanguage: python11,
+	database: relational-sql,
+
+}
